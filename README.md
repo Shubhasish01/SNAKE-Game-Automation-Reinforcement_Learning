@@ -80,4 +80,4 @@ MIT License. See LICENSE file for details.
 
 🙋‍♂️ Author
 Shubhasish
-GitHub Profile
+[GitHub Profile](https://github.com/Shubhasish01)
