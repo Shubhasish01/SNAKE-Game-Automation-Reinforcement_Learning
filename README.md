@@ -14,6 +14,8 @@ This project implements the classic Snake Game and trains an agent to play it us
 ## 🧱 Project Structure
 
 📁 SNAKE-Game-Automation-Reinforcement_Learning
+
+SNAKE-Game-Automation-Reinforcement_Learning/
 │
 ├── agent.py # Reinforcement Learning agent logic
 ├── game.py # Snake game environment
