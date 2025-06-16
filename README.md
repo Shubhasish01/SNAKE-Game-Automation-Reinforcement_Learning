@@ -16,17 +16,23 @@ This project implements the classic Snake Game and trains an agent to play it us
 📁 SNAKE-Game-Automation-Reinforcement_Learning
 
 SNAKE-Game-Automation-Reinforcement_Learning/
-│
+
 ├── agent.py # Reinforcement Learning agent logic
 
 ├── game.py # Snake game environment
 
 ├── helper.py # Utility functions
+
 ├── model.py # Neural Network architecture
+
 ├── snake_game_human.py # Play Snake manually (for testing)
+
 ├── arial.ttf # Font for game rendering
+
 ├── model/ # Trained models (saved checkpoints)
+
 ├── pycache/ # Ignored by Git (bytecode)
+
 └── README.md # You are here
 
 
